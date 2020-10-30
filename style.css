@@ -1,0 +1,58 @@
+.header{
+	width: 100%;
+	height: 100px;
+	background-color: yellow;
+}
+.header-logo{
+	width: 100px;
+	height: 80px;
+	background-color: blue;
+	display: inline-block;
+	margin: 10px;
+}
+.header-menu{
+	width: 900px;
+	height: 80px;
+	background-color: blue;
+	display: inline-block;
+	margin: 10px;
+	float: right;
+}
+.navigation-menu{
+	width: 100%;
+	height: 150px;
+	background-color: green;
+}
+.menu{
+    width: 100%;
+	height: 1000px;
+	background-color: blue;
+}
+.content{
+	width:400px;
+	height: 950px;
+	background-color: yellow;
+	display: inline-block;
+	margin: 30px;
+}
+.main-content{
+	width:350px;
+	height: 950px;
+	background-color: yellow;
+	display: inline-block;
+	margin: 30px;
+	float: left;
+}
+.content-2{
+	width:400px;
+	height: 950px;
+	background-color: yellow;
+	display: inline-block;
+	margin: 30px;
+	float: left;
+}
+.footer{
+	width: 100%;
+	height: 100px;  
+	background-color: red;
+}
